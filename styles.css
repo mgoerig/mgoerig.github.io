@@ -6,6 +6,7 @@ body {
     display: inline-block;
     width: 100%;
     height: auto;
+    margin: auto;
 }
 
 h1 {
@@ -55,8 +56,8 @@ nav li a {
 .banner h1 {
     width: 100%;
     height: auto;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 35%;
+    margin-right: 35%;
     padding: 20px;
     text-transform: uppercase;
     font-size: 60px;
@@ -88,12 +89,14 @@ section.event-container div {
     height: auto;
     border-style: groove;
     display: inline-block;
+    margin: auto;
 }
 
 section li{
     display: block;
     width: auto;
-    text-align: center;
+   
+    margin: auto;
 }
 
 section.gallerie {
@@ -115,4 +118,3 @@ section div {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
